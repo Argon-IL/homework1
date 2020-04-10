@@ -1,0 +1,41 @@
+body{
+	margin-left: 30%;
+	margin-right: 30%;
+	border: solid;
+	-webkit-box-shadow: 0px 0px 11px 5px rgba(0,0,0,1);
+	-moz-box-shadow: 0px 0px 11px 5px rgba(0,0,0,1);
+	box-shadow: 0px 0px 11px 5px rgba(0,0,0,1);
+	font-family: Ariel;
+	font-size: 20px;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	margin-left: 40%;
+	margin-bottom: 10%;
+
+}
+
+.mainDisc{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.stimulus,.feedBack,.addition{
+	border-top: solid;
+	border-width: 1px;
+}
+
+p,a{
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+.fax,.pornhub,.addition{
+	line-height: 0.1em;
+	height: 60px;
+}
+
